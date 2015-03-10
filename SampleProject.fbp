@@ -1,0 +1,4 @@
+<Project projectName="">
+  <Jar>./bin</Jar>
+  <SrcDir>./src</SrcDir>
+</Project>
